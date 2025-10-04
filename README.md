@@ -9,7 +9,7 @@ A machine learning project implementing **Logistic Regression from scratch** to 
 
 ## 📋 Table of Contents
 
-- [Overview](#Overview)
+- [Overview](#-overview)
 - [Dataset](#dataset)
 - [Features](#features)
 - [Model Architecture](#model-architecture)
@@ -508,6 +508,7 @@ print(f'Survival probability: {prob[0][0]*100:.1f}%')
 "
 
 ```
+
 
 
 
