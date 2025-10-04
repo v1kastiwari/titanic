@@ -4,7 +4,6 @@
 [![NumPy](https://img.shields.io/badge/NumPy-1.19+-orange.svg)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-1.2+-green.svg)](https://pandas.pydata.org/)
 [![Accuracy](https://img.shields.io/badge/Accuracy-81.01%25-brightgreen.svg)]()
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)]()
 
 A machine learning project implementing **Logistic Regression from scratch** to predict passenger survival on the RMS Titanic. Achieves **81.01% accuracy** using only 4 carefully selected features.
 
@@ -263,7 +262,7 @@ titanic-survival-prediction/
 ├── Titanic_Dataset.csv      # Input dataset
 ├── requirements.txt         # Python dependencies
 ├── README.md                # This file
-├── REPORT.md                # Detailed technical report
+└── REPORT.md                # Detailed technical report
 
 ```
 
@@ -443,12 +442,6 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 👤 Author
 
 **Your Name**
@@ -471,15 +464,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 1. Kaggle Titanic Dataset: https://www.kaggle.com/c/titanic
 2. Murphy, K. P. (2012). *Machine Learning: A Probabilistic Perspective*
 3. Hastie, T., et al. (2009). *The Elements of Statistical Learning*
-
----
-
-## 📞 Support
-
-If you have any questions or issues, please:
-1. Check existing [Issues](https://github.com/yourusername/titanic-survival-prediction/issues)
-2. Create a new issue with detailed description
-3. Contact via email
 
 ---
 
@@ -524,3 +508,4 @@ print(f'Survival probability: {prob[0][0]*100:.1f}%')
 "
 
 ```
+
