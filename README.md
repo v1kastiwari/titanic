@@ -23,7 +23,7 @@ A machine learning project implementing **Logistic Regression from scratch** to 
 
 ---
 
-#Overview
+## 🎯 Overview
 
 On April 15, 1912, the RMS Titanic sank after colliding with an iceberg. This project builds a binary classification model to predict passenger survival based on demographic and socio-economic features.
 
