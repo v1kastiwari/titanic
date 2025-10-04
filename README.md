@@ -264,10 +264,7 @@ titanic-survival-prediction/
 ├── requirements.txt         # Python dependencies
 ├── README.md                # This file
 ├── REPORT.md                # Detailed technical report
-│
-└── analysis/                # Optional analysis scripts
-    ├── feature_importance.py
-    └── optimization_experiments.py
+
 ```
 
 ---
@@ -525,4 +522,5 @@ features_norm = (features - model['X_mean']) / model['X_std']
 prob = 1 / (1 + np.exp(-np.dot(features_norm, model['weights']) - model['bias']))
 print(f'Survival probability: {prob[0][0]*100:.1f}%')
 "
+
 ```
