@@ -445,7 +445,7 @@ Contributions are welcome! Please follow these steps:
 
 **Your Name**
 - GitHub: [@v1kastiwari](https://github.com/yourusername)
-- LinkedIn: [Ikas TIwari](https://www.linkedin.com/in/n-yuva-shree-55b979304)
+- LinkedIn: [Vikas TIwari](https://www.linkedin.com/in/n-yuva-shree-55b979304)
 - Email: vk1145345@gmail.com
 
 ---
@@ -507,6 +507,7 @@ print(f'Survival probability: {prob[0][0]*100:.1f}%')
 "
 
 ```
+
 
 
 
