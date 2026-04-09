@@ -445,7 +445,7 @@ Contributions are welcome! Please follow these steps:
 
 **Your Name**
 - GitHub: [@v1kastiwari](https://github.com/yourusername)
-- LinkedIn: [Vikas TIwari]((https://www.linkedin.com/in/v1kastiwari/)
+- LinkedIn: [Vikas TIwari](https://www.linkedin.com/in/v1kastiwari/)
 - Email: vk1145345@gmail.com
 
 ---
